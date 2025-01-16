@@ -10,4 +10,5 @@ Once the virtual environment is activated, you should be able to open and run As
 ### Notes
 If I were to remake this solution, I would place greater emphasis on performance instead of focusing solely on correctness.
 
-[![Watch the video](https://github.com/rosterClan/MotionVectorTracking/main/finalExport.mp4)](https://github.com/rosterClan/MotionVectorTracking/main/finalExport.mp4)
+[![Watch the video](https://img.youtube.com/vi/MFTAhlnkLhc/0.jpg)](https://www.youtube.com/watch?v=MFTAhlnkLhc)
+
