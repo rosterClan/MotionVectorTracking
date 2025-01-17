@@ -3,7 +3,7 @@ This is an assignment in which we needed to track the motion of an on-screen act
 
 Running the provided code will process the pre-extracted frames of the original video and superimpose the aforementioned vectors, producing the `finalExport.mp4` output file. An example of what the code produces is included below.
 
-##### Example Output
+## Example Output
 [![Watch the video](https://img.youtube.com/vi/MFTAhlnkLhc/0.jpg)](https://www.youtube.com/watch?v=MFTAhlnkLhc)
 
 ### How To Run
