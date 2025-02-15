@@ -15,11 +15,3 @@ Then, you can run the following script to activate the Python virtual environmen
 
 Once the virtual environment is activated, you should be able to open and run Assignment.py.
 
-### Example Output
-If you don't want to download the example output video vile
-
-### Notes
-If I were to remake this solution, I would place greater emphasis on performance instead of focusing solely on correctness.
-
-
-
