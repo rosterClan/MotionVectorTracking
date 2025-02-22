@@ -15,6 +15,9 @@ Running the provided code will process the pre-extracted frames of the original 
 <a href="">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python">
 </a>
+<a href="">
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv">
+</a>
 
 ## Getting Started
 This is an example of how you may give instructions on setting this project locally. Clone this repo and then perform the following steps. 
