@@ -3,7 +3,9 @@
   <a href="https://www.youtube.com/watch?v=MFTAhlnkLhc">
     <img src="https://img.youtube.com/vi/MFTAhlnkLhc/0.jpg" alt="Logo">
   </a>
-  <h3 align="center">Video Motion Vector Tracking</h3>
+  <a align="center" href="https://www.youtube.com/watch?v=MFTAhlnkLhc">
+    <h3 align="center">Video Motion Vector Tracking</h3>
+  </a>
 </div>
 
 ## About The Project
